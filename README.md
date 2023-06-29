@@ -6,12 +6,8 @@ Semi-supervised learning (SSL) is a popular approach that leverages both labelle
 
 ## Setup
 
-* `python 3.7`
-* `pytorch == 1.0.0`
-* `torchvision == 0.2.2.post3`
-* `randAugment (Pytorch re-implementation: https://github.com/ildoonet/pytorch-randaugment)`
-* `torchvision`
-* `progressbar`
+* File: `requirements.txt`
+* Additional requirement: `randAugment (Pytorch re-implementation: https://github.com/ildoonet/pytorch-randaugment)`
 
 <p align="center">
     <img src="pipelinev3.jpeg" width="800"/>
